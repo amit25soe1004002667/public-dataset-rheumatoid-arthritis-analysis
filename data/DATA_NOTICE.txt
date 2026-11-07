@@ -1,0 +1,1 @@
+SYNTHETIC DATA ONLY. These values are randomly generated for practice and are not real patient or public-dataset measurements.
